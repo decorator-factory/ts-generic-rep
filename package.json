@@ -1,0 +1,14 @@
+{
+  "name": "ts-generic-rep",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "typescript": "^4.6.0-dev.20211216"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MPL v2.1"
+}
